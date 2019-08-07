@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ShadeeHouse/static/css/main.2cce8147.chunk.css",
+    "main.js": "/ShadeeHouse/static/js/main.c6c46a96.chunk.js",
+    "main.js.map": "/ShadeeHouse/static/js/main.c6c46a96.chunk.js.map",
+    "runtime~main.js": "/ShadeeHouse/static/js/runtime~main.ccbaab5e.js",
+    "runtime~main.js.map": "/ShadeeHouse/static/js/runtime~main.ccbaab5e.js.map",
+    "static/js/2.b41502e9.chunk.js": "/ShadeeHouse/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/ShadeeHouse/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/ShadeeHouse/index.html",
+    "precache-manifest.2b3d89716135bd29d89d66a5fd6f79cd.js": "/ShadeeHouse/precache-manifest.2b3d89716135bd29d89d66a5fd6f79cd.js",
+    "service-worker.js": "/ShadeeHouse/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/ShadeeHouse/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/ShadeeHouse/static/media/logo.5d5d9eef.svg"
+  }
+}
