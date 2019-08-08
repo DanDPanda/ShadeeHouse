@@ -1,12 +1,7 @@
 import React, { Component } from "react";
-import "../../styles/header.css";
+import "../../styles/headerimage.css";
 import { Parallax } from "react-parallax";
 
-const styles = {
-  fontFamily: "sans-serif",
-  textAlign: "center",
-  borderColor: "white"
-};
 const insideStyles = {
   background: "white",
   padding: 20,
@@ -24,7 +19,7 @@ class Header extends Component {
     return (
       <>
         <h1>| | |</h1>
-        <div style={styles}>
+        <div className="bar">
           <Parallax
             bgImage={
               "https://cdn.vox-cdn.com/thumbor/djWq2urcpa7tudS9B-sibTK8Tl8=/0x0:2727x1928/1200x800/filters:focal(326x688:762x1124)/cdn.vox-cdn.com/uploads/chorus_image/image/58043481/TH_main_m_2__C_Fuji_Television_Network_Inc.East_Entertainment.1513718001.jpg"
