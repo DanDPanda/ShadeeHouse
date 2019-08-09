@@ -1,23 +1,36 @@
-@import url(
-  https://fonts.googleapis.com/css?family=Open+Sans:400,
-  800,
-  700,
-  300
-);
-@import url(https://fonts.googleapis.com/css?family=Squada+One);
-.logo {
+@import url(https://fonts.googleapis.com/css?family=Boogaloo);
+.header-image {
   width: 100%;
+  height: 750px;
+}
+.header-text {
+  line-height: 1;
+  color: white;
+  text-transform: uppercase;
   text-align: center;
   font-family: "Open Sans", sans-serif;
-  color: white;
-  text-decoration: none;
-  text-transform: uppercase;
   font-size: 150px;
   font-weight: 800;
-  letter-spacing: -3px;
-  line-height: 1;
-  position: relative;
-}
-.header-color {
-  background: black;
+  top: 50%;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 15px solid white;
+  text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black,
+    0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black,
+    0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black,
+    0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black,
+    0 0 2px black;
+  box-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black,
+    0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black,
+    0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black,
+    0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black,
+    0 0 2px black;
+  box-shadow: inset 0 0 2px black, inset 0 0 2px black, inset 0 0 2px black,
+    inset 0 0 2px black, inset 0 0 2px black, inset 0 0 2px black,
+    inset 0 0 2px black, inset 0 0 2px black, inset 0 0 2px black,
+    inset 0 0 2px black, inset 0 0 2px black, inset 0 0 2px black,
+    inset 0 0 2px black, inset 0 0 2px black, inset 0 0 2px black,
+    inset 0 0 2px black, inset 0 0 2px black, inset 0 0 2px black,
+    inset 0 0 2px black, inset 0 0 2px black;
 }
