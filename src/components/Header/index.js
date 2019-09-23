@@ -8,7 +8,9 @@ class Header extends Component {
       <>
         <Parallax bgImage={require("../../images/Space.png")} strength={1500}>
           <div className="header-image">
-            <div className="header-text">Shadee House</div>
+            <div className="header-border">
+              <div className="header-text">Shadee House</div>
+            </div>
           </div>
         </Parallax>
       </>

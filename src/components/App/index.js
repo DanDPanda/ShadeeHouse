@@ -8,28 +8,11 @@ function App() {
       style={{
         textAlign: "center",
         fontFamily: "sans-serif",
-        padding: "15px",
-        backgroundColor: "#f5f5dc"
+        padding: "15px"
+        // backgroundColor: "#f5f5dc"
       }}
     >
       <Header />
-      <About />
-      <About />
-      <About />
-      <About />
-      <About />
-      <About />
-      <About />
-      <About />
-      <About />
-      <About />
-      <About />
-      <About />
-      <About />
-      <About />
-      <About />
-      <About />
-      <About />
       <About />
     </div>
   );

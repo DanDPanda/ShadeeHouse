@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
+.about-title {
+  margin: 100px;
+  font-size: 75px;
+  font-family: "Lato", sans-serif;
+}
+.about-body {
+  font-size: 40px;
+  font-family: "Lato", sans-serif;
+  max-width: 75%;
+  text-align: center;
+  margin: 0 auto;
+}
+.about-photo {
+  margin: 100px;
+  max-width: 75%;
+}
