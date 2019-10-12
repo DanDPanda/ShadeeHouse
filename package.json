@@ -9,6 +9,7 @@
     "react-dom": "^16.8.6",
     "react-image-gallery": "^0.9.1",
     "react-parallax": "^2.2.0",
+    "react-reveal": "^1.2.2",
     "react-scripts": "3.0.1"
   },
   "homepage": "http://dandpanda.github.io/ShadeeHouse",

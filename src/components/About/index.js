@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import "../../styles/about.css";
 import ImageGallery from "react-image-gallery";
-import earth from "../../images/Earth.png";
 
 const images = [
   {

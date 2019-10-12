@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
+@import "~react-image-gallery/styles/css/image-gallery.css";
+.cards-background {
+  margin: 50px;
+}
+.individual-card {
+  margin: 50px;
+  display: inline-block;
+  width: 400px;
+  height: 400px;
+}
+.card-title {
+  margin: 100px;
+  font-size: 75px;
+  font-family: "Lato", sans-serif;
+}

@@ -1,6 +1,7 @@
 import React from "react";
 import Header from "../Header";
 import About from "../About";
+import Cards from "../Cards";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
     >
       <Header />
       <About />
+      <Cards />
     </div>
   );
 }
