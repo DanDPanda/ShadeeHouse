@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bdd159d550a1e2d2ac01912eb200fabe",
+    "revision": "48f56f398e19b8de2a089c1a4c3354ac",
     "url": "/ShadeeHouse/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ShadeeHouse/static/css/2.d8616618.chunk.css"
   },
   {
-    "revision": "665f60ce5257d76b56e2",
-    "url": "/ShadeeHouse/static/css/main.8ac2656b.chunk.css"
+    "revision": "8461701f99c9ab6482d2",
+    "url": "/ShadeeHouse/static/css/main.afa1cca1.chunk.css"
   },
   {
     "revision": "e8dc67cce6f8f5f0fb0a",
     "url": "/ShadeeHouse/static/js/2.4ef74bfd.chunk.js"
   },
   {
-    "revision": "665f60ce5257d76b56e2",
+    "revision": "8461701f99c9ab6482d2",
     "url": "/ShadeeHouse/static/js/main.d2d6b786.chunk.js"
   },
   {

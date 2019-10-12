@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ShadeeHouse/static/css/main.8ac2656b.chunk.css",
+    "main.css": "/ShadeeHouse/static/css/main.afa1cca1.chunk.css",
     "main.js": "/ShadeeHouse/static/js/main.d2d6b786.chunk.js",
     "main.js.map": "/ShadeeHouse/static/js/main.d2d6b786.chunk.js.map",
     "runtime~main.js": "/ShadeeHouse/static/js/runtime~main.ccbaab5e.js",
@@ -9,10 +9,10 @@
     "static/js/2.4ef74bfd.chunk.js": "/ShadeeHouse/static/js/2.4ef74bfd.chunk.js",
     "static/js/2.4ef74bfd.chunk.js.map": "/ShadeeHouse/static/js/2.4ef74bfd.chunk.js.map",
     "index.html": "/ShadeeHouse/index.html",
-    "precache-manifest.8aef9ada507df79ef4c12ec94554480c.js": "/ShadeeHouse/precache-manifest.8aef9ada507df79ef4c12ec94554480c.js",
+    "precache-manifest.ec29a580b31165aa8225709b4c113d8b.js": "/ShadeeHouse/precache-manifest.ec29a580b31165aa8225709b4c113d8b.js",
     "service-worker.js": "/ShadeeHouse/service-worker.js",
     "static/css/2.d8616618.chunk.css.map": "/ShadeeHouse/static/css/2.d8616618.chunk.css.map",
-    "static/css/main.8ac2656b.chunk.css.map": "/ShadeeHouse/static/css/main.8ac2656b.chunk.css.map",
+    "static/css/main.afa1cca1.chunk.css.map": "/ShadeeHouse/static/css/main.afa1cca1.chunk.css.map",
     "static/media/Space.png": "/ShadeeHouse/static/media/Space.953d9f07.png"
   }
 }
