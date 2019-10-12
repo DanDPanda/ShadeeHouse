@@ -9,6 +9,12 @@
   width: 400px;
   height: 400px;
 }
+
+.individual-card:hover {
+  cursor: pointer;
+  box-shadow: 0 0 2px black,inset 0 0 2px black;
+}
+
 .card-title {
   margin: 100px;
   font-size: 75px;
