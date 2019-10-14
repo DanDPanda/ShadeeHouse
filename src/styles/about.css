@@ -1,13 +1,16 @@
 @import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Oswald&display=swap");
 @import "~react-image-gallery/styles/css/image-gallery.css";
+
 .about-title {
   margin: 100px;
   font-size: 75px;
-  font-family: "Lato", sans-serif;
+  font-family: "Oswald", sans-serif;
 }
+
 .about-body {
   font-size: 40px;
-  font-family: "Lato", sans-serif;
+  font-family: "Oswald", sans-serif;
   max-width: 75%;
   text-align: center;
   margin: 0 auto;
